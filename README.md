@@ -1,4 +1,4 @@
-# 🌐 Multilingual Sentiment Analysis Project (Portuguese & English)
+# 🌐 Multilingual Sentiment Analysis Project - IA (Portuguese & English)
 
 ## 🎯 Project Objective
 The goal of this project is to create an **automated sentiment analysis tool** capable of identifying whether a text expresses a **positive, negative, or neutral opinion**, also classifying the emotional trend (optimistic or pessimistic) and the confidence level of the analysis.
